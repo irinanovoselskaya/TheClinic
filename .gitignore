@@ -1,0 +1,17 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Optional npm cache directory
+.npm
+
+# Node modules
+node_modules
+
+# Generated files
+bundle.js
+
+# User-specific IDEA configuration files
+.idea/workspace.xml
+.idea/tasks.xml
